@@ -1,0 +1,41 @@
+Sample,GSM,Title,tissue,cell type,disease
+1,GSM8561110,S_1907_004567,Kidney cortex,Kidney and immune cells,Type 1 Diabetes
+2,GSM8561111,S_1907_004614,Kidney cortex,Kidney and immune cells,Type 1 Diabetes
+3,GSM8561112,S_1907_004802,Kidney cortex,Kidney and immune cells,Lean Control
+4,GSM8561113,S_1907_004896,Kidney cortex,Kidney and immune cells,Type 1 Diabetes
+5,GSM8561114,S_1907_005225,Kidney cortex,Kidney and immune cells,Type 1 Diabetes
+6,GSM8561115,S_2006_004078,Kidney cortex,Kidney and immune cells,Type 1 Diabetes
+7,GSM8561116,S_2007_002809,Kidney cortex,Kidney and immune cells,Type 1 Diabetes
+8,GSM8561117,S_2007_002950,Kidney cortex,Kidney and immune cells,Type 1 Diabetes
+9,GSM8561118,S_2007_002997,Kidney cortex,Kidney and immune cells,Lean Control
+10,GSM8561119,S_2007_003044,Kidney cortex,Kidney and immune cells,Type 1 Diabetes
+11,GSM8561120,S_2007_003091,Kidney cortex,Kidney and immune cells,Type 1 Diabetes
+12,GSM8561121,S_2007_003138,Kidney cortex,Kidney and immune cells,Type 1 Diabetes
+13,GSM8561122,S_2007_003793,Kidney cortex,Kidney and immune cells,Type 1 Diabetes
+14,GSM8561123,S_2007_003840,Kidney cortex,Kidney and immune cells,Type 1 Diabetes
+15,GSM8561124,S_2007_003934,Kidney cortex,Kidney and immune cells,Type 1 Diabetes
+16,GSM8561125,S_2007_004028,Kidney cortex,Kidney and immune cells,Lean Control
+17,GSM8561126,S_2007_004216,Kidney cortex,Kidney and immune cells,Lean Control
+18,GSM8561127,S_2007_004263,Kidney cortex,Kidney and immune cells,Lean Control
+19,GSM8561128,S_2103_004019,Kidney cortex,Kidney and immune cells,Type 1 Diabetes
+20,GSM8561129,S_2103_004028,Kidney cortex,Kidney and immune cells,Type 1 Diabetes
+21,GSM8561130,S_2103_004037,Kidney cortex,Kidney and immune cells,Lean Control
+22,GSM8561131,S_2103_004046,Kidney cortex,Kidney and immune cells,Lean Control
+23,GSM8561132,S_2103_004064,Kidney cortex,Kidney and immune cells,Type 1 Diabetes
+24,GSM8561133,S_2103_004073,Kidney cortex,Kidney and immune cells,Type 1 Diabetes
+25,GSM8561134,S_2103_004091,Kidney cortex,Kidney and immune cells,Lean Control
+26,GSM8561135,S_2103_004100,Kidney cortex,Kidney and immune cells,Type 1 Diabetes
+27,GSM8561136,S_2103_004109,Kidney cortex,Kidney and immune cells,Type 1 Diabetes
+28,GSM8561137,S_2103_004118,Kidney cortex,Kidney and immune cells,Type 1 Diabetes
+29,GSM8561138,S_2103_004127,Kidney cortex,Kidney and immune cells,Lean Control
+30,GSM8561139,S_2103_004145,Kidney cortex,Kidney and immune cells,Type 1 Diabetes
+31,GSM8561140,S_2103_004154,Kidney cortex,Kidney and immune cells,Type 1 Diabetes
+32,GSM8561141,S_2103_004163,Kidney cortex,Kidney and immune cells,Type 1 Diabetes
+33,GSM8561142,S_2103_004181,Kidney cortex,Kidney and immune cells,Type 1 Diabetes
+34,GSM8561143,S_2107_023520,Kidney cortex,Kidney and immune cells,Type 1 Diabetes
+35,GSM8561144,S_2107_023538,Kidney cortex,Kidney and immune cells,Lean Control
+36,GSM8561145,S_2107_023547,Kidney cortex,Kidney and immune cells,Type 1 Diabetes
+37,GSM8561146,S_2107_023556,Kidney cortex,Kidney and immune cells,Lean Control
+38,GSM8561147,S_2107_023592,Kidney cortex,Kidney and immune cells,Type 1 Diabetes
+39,GSM8561148,S_2107_023610,Kidney cortex,Kidney and immune cells,Type 1 Diabetes
+40,GSM8561149,S_2107_023619,Kidney cortex,Kidney and immune cells,Lean Control
